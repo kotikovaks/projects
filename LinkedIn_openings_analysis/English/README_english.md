@@ -1,4 +1,4 @@
-#LinkedIn Data Analytics openings analysis
+# LinkedIn Data Analytics openings analysis
 
 
 **Goal** — visualize data on openings for data analytics in Europe.
